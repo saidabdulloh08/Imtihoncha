@@ -1,0 +1,11 @@
+.img{
+    width: 300px;
+}
+.list-film {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.film-item {
+    width: 300px;
+}
